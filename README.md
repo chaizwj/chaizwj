@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+![](https://img.shields.io/badge/Language-Java-red)  
+![](https://img.shields.io/badge/常用框架-SpringBoot-orange)
+![](https://img.shields.io/badge/Language-Python-red)  
+![](https://img.shields.io/badge/常用框架-Pytorch-orange)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaizwj&show_icons=true&theme=radical&cache_seconds=200*300)
 Here are some ideas to get you started:
 
