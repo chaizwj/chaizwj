@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z1069614715&show_icons=true&theme=radical&cache_seconds=200*300)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaizwj&show_icons=true&theme=radical&cache_seconds=200*300)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
