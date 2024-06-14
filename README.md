@@ -1,17 +1,18 @@
-## Hi there 👋
-![](https://img.shields.io/badge/Language-Java-red)  
-![](https://img.shields.io/badge/常用框架-SpringBoot-orange)
-![](https://img.shields.io/badge/Language-Python-red)  
-![](https://img.shields.io/badge/常用框架-Pytorch-orange)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaizwj&show_icons=true&theme=radical&cache_seconds=200*300)
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+## Welcome to my github👏👏👏
+#### ☀️Languages
+![](https://img.shields.io/badge/Language-Java-red) ![](https://img.shields.io/badge/Language-Python-vermeil) ![](https://img.shields.io/badge/Language-html-blue) ![](https://img.shields.io/badge/Language-css-darkgreen) ![](https://img.shields.io/badge/Language-javascript-violet) ![](https://img.shields.io/badge/Language-Vue-brown) ![](https://img.shields.io/badge/Language-Linux-gold)
+
+#### ✉️Contact with me
+-  <"example@example.com">
+#### 🏃Actions
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaizwj"></img>
+
+
+
+
+  
 
